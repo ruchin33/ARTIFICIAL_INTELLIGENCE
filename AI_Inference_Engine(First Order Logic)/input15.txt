@@ -1,0 +1,9 @@
+1
+Happy(John)
+6
+~Pass(x1, History) | ~Win(x1, Lottery) | Happy(x1)
+~Study(x2) | Pass(x2,y1)
+~Lucky(x3) | Pass(x3,y2)
+~Study(John)
+Lucky(John)
+~Lucky(x4) | Win(x4, Lottery)

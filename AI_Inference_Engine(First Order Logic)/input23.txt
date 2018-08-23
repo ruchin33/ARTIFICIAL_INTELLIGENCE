@@ -1,0 +1,5 @@
+1
+C(John)
+2
+A(John) | B(John) | C(John) | ~B(John)
+~B(John) | ~A(John)

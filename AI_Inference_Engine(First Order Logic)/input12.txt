@@ -1,0 +1,10 @@
+1
+hate(Marcus,Caesar)
+7
+man(Marcus)
+Pompeian(Marcus)
+~Pompeian(x) | Roman(x)
+ruler(Caesar)
+~Roman(x) | loyalto(x,Caesar) | hate(x,Caesar)
+~man(x) | ~ruler(y) | ~tryAssassinate(x,y) | ~loyalto(x,y)
+tryAssassinate(Marcus,Caesar)

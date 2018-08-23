@@ -1,0 +1,4 @@
+0
+2
+Knows(John,y,z)
+Knows(x,p,q)

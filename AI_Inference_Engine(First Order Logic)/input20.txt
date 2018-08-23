@@ -1,0 +1,6 @@
+1
+~B(John)
+3
+~B(z) | A(z) | Knows(z,z,x)
+~A(John)
+~Knows(z,Elizabeth,x)

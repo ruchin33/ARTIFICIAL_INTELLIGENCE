@@ -1,0 +1,7 @@
+1
+sneeze(Mary)
+4
+~allergies(x) | sneeze(x)
+~Cat(y) | ~allergicToCats(x) | allergies(x)
+Cat(Felix)
+allergicToCats(Mary)

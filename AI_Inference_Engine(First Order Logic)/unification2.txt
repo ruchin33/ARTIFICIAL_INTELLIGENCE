@@ -1,0 +1,4 @@
+0
+2
+Knows(John,x) 
+Knows(y,Bill)

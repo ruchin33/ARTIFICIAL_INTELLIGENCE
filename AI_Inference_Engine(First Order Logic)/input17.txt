@@ -1,0 +1,9 @@
+2
+A(John)
+~A(John)
+5
+~B(John) | D(x)
+A(Jane)| B(x) | A(Sid) | D(x) | A(John)
+~D(John)
+~A(Jane)
+~A(Sid)

@@ -1,0 +1,4 @@
+1
+O(John,Jay,John,John,Jay,John)
+1
+O(x,y,x,x,y,x)
